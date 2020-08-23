@@ -23,7 +23,7 @@ setInterval(relogio, 1000);
 function tsuna() {
 
     let muda = document.getElementById('mudas');
-    if (muda.src = "/img/3ts.jpg") {
+    if (muda.src = "/3ts.jpg") {
         muda.src = "img/3.2.gif";
     } else {
         muda.src = "/img/3.2.gif"
