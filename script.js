@@ -22,11 +22,11 @@ setInterval(relogio, 1000);
 
 function tsuna() {
 
-    let mudas = document.getElementById('muda');
-    if (mudas.src = "img/3.png") {
-        mudas.src = "img/3.2.gif";
+    let muda = document.getElementById('mudas');
+    if (muda.src = "/img/3ts.jpg") {
+        muda.src = "img/3.2.gif";
     } else {
-        mudas.src = "/img/3.2.gif"
+        muda.src = "/img/3.2.gif"
 
     }
 
