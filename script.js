@@ -20,14 +20,7 @@ function relogio() {
 }
 setInterval(relogio, 1000);
 
-function tsuna() {
 
-    let muda = document.getElementById('mudas');
-
-    muda.src = "img/3.2.gif";
-
-
-}
 function mudawalter() {
     let mudas = document.getElementById('mudawalter');
 
